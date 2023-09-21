@@ -1,6 +1,11 @@
+# pycharm
 /.idea/*
-/datasets/*
-/logs/*
+
+# python
 __pycache__
+
+# others
+/logs/*
+/datasets/*
 /weights/*
 !/weights/README.md
