@@ -1,1 +1,1 @@
-# linear-classifty-clfar10
+# linear-classifty-mnist
